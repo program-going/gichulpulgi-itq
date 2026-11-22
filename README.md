@@ -53,8 +53,6 @@ ITQ 실기 기출문제와 응시 종목 프로그램을 실행해 바로 연습
 
 사용 중 궁금한 점이나 오류는 [Issues](https://github.com/program-going/gichulpulgi-itq/issues) 에 글로 남겨 주세요.
 
-사용 후기는 [Discussions](https://github.com/program-going/gichulpulgi-itq/discussions) 에 남겨 주세요.
-
 글을 남기려면 GitHub 로그인이 필요합니다.
 
 ## 저작권
